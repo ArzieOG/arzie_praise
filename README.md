@@ -49,7 +49,7 @@ QBOX / qbx_core
 
 📦 Installation
 
-Drag the arzie_praise folder into your server resources
+Create a folder called arzie_praise into your server resources
 
 Add this line to server.cfg:
 
