@@ -7,6 +7,8 @@ A 24-hour cooldown per character ensures players can only submit one praise per 
 An optional flag allows players to mark whether staff may share their praise publicly (this does not hide anything from the webhook is simply if you wanted to make it public).
 
 🖼️ Preview
+
+
 <img width="184" height="115" alt="image" src="https://github.com/user-attachments/assets/09ebe063-8ac7-4d45-9089-6215283dc2f3" />
 <img width="547" height="585" alt="image" src="https://github.com/user-attachments/assets/9e668ddf-7c5a-4416-a123-6cd387951d57" />
 <img width="508" height="567" alt="image" src="https://github.com/user-attachments/assets/7bfe8e7f-4352-490e-b43b-697e67bf7fca" />
