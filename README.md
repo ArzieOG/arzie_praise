@@ -8,6 +8,8 @@ An optional flag allows players to mark whether staff may share their praise pub
 
 🖼️ Preview
 
+Video: https://www.youtube.com/watch?v=xh0w59TWsjk
+
 
 <img width="184" height="115" alt="image" src="https://github.com/user-attachments/assets/09ebe063-8ac7-4d45-9089-6215283dc2f3" />
 <img width="547" height="585" alt="image" src="https://github.com/user-attachments/assets/9e668ddf-7c5a-4416-a123-6cd387951d57" />
